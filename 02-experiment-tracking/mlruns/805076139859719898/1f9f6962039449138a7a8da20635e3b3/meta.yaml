@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/805076139859719898/1f9f6962039449138a7a8da20635e3b3/artifacts
+deleted_time: 1749493419190
+end_time: null
+entry_point_name: ''
+experiment_id: '805076139859719898'
+lifecycle_stage: deleted
+run_id: 1f9f6962039449138a7a8da20635e3b3
+run_name: bustling-gull-144
+run_uuid: 1f9f6962039449138a7a8da20635e3b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749492154334
+status: 1
+tags: []
+user_id: codespace

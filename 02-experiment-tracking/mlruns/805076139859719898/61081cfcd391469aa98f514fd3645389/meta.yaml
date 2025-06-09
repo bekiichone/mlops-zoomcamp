@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/805076139859719898/61081cfcd391469aa98f514fd3645389/artifacts
+deleted_time: 1749493419186
+end_time: null
+entry_point_name: ''
+experiment_id: '805076139859719898'
+lifecycle_stage: deleted
+run_id: 61081cfcd391469aa98f514fd3645389
+run_name: enchanting-lynx-478
+run_uuid: 61081cfcd391469aa98f514fd3645389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749492557520
+status: 1
+tags: []
+user_id: codespace

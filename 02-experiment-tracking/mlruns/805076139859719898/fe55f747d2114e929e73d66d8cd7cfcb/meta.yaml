@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/805076139859719898/fe55f747d2114e929e73d66d8cd7cfcb/artifacts
+end_time: 1749493199097
+entry_point_name: ''
+experiment_id: '805076139859719898'
+lifecycle_stage: active
+run_id: fe55f747d2114e929e73d66d8cd7cfcb
+run_name: charming-cod-232
+run_uuid: fe55f747d2114e929e73d66d8cd7cfcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749493182437
+status: 3
+tags: []
+user_id: codespace

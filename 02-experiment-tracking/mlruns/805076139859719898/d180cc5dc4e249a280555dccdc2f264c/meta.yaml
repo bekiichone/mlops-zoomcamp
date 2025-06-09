@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/805076139859719898/d180cc5dc4e249a280555dccdc2f264c/artifacts
+deleted_time: 1749493419078
+end_time: null
+entry_point_name: ''
+experiment_id: '805076139859719898'
+lifecycle_stage: deleted
+run_id: d180cc5dc4e249a280555dccdc2f264c
+run_name: gaudy-rook-736
+run_uuid: d180cc5dc4e249a280555dccdc2f264c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749493303733
+status: 1
+tags: []
+user_id: codespace

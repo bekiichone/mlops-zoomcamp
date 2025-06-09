@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/805076139859719898/e19dfa3368414bf193600cc8e0aacea1/artifacts
+deleted_time: 1749493419081
+end_time: null
+entry_point_name: ''
+experiment_id: '805076139859719898'
+lifecycle_stage: deleted
+run_id: e19dfa3368414bf193600cc8e0aacea1
+run_name: victorious-fawn-251
+run_uuid: e19dfa3368414bf193600cc8e0aacea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749493356285
+status: 1
+tags: []
+user_id: codespace
